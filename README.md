@@ -1,7 +1,7 @@
 # MDSProject
 Modern Database System Project
 
-TOPIC : Web scraping stock data of some popular companies from Yahoo Finance for storing it in InfluxDB, querying and forecasting the prices of the stocks for the upcoming days.
+TOPIC : Web scraping stock data of Neyveli India Limited (NLCINDIA) from Yahoo Finance for storing it in InfluxDB, querying and forecasting the prices of the stock for the upcoming days.
 
 PROGRAMMING LANGUAGE USED: Python
 
@@ -11,6 +11,7 @@ STEPS:
 3. Data is queried and forecasted using the following models:
    1. Autoregressive integrated moving average (ARIMA) 
    2. Long Short Term Memory (LSTM)
-
+4. Smoothing using Moving Average to identify trends in the stock.
+5. Risk analysis was done on the stock by finding the Sharpe ratio of the stock.
 
 
