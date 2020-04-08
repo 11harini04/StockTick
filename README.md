@@ -9,9 +9,8 @@ STEPS:
 1. Web Scraping data from Yahoo Finance.
 2. Since stock data is time series data, it is inserted into InfluxDB, which is a time series database.
 3. Data is queried and forecasted using the following models:
-   1. Moving Average
-   2. Autoregressive integrated moving average (ARIMA) 
-   3. Long Short Term Memory (LSTM)
+   1. Autoregressive integrated moving average (ARIMA) 
+   2. Long Short Term Memory (LSTM)
 
 
 
