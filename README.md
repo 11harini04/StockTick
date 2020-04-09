@@ -12,6 +12,6 @@ STEPS:
    1. Autoregressive integrated moving average (ARIMA) 
    2. Long Short Term Memory (LSTM)
 4. Smoothing using Moving Average to identify trends in the stock.
-5. Risk analysis was done on the stock by finding the Sharpe ratio of the stock.
+5. Risk analysis was done on the stock by finding the Sharpe ratio and Sortino ratio of the stock.
 
 
