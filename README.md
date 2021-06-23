@@ -1,4 +1,4 @@
-# MDSProject
+# StockTick
 Modern Database System Project
 
 TOPIC : Web scraping stock data of Neyveli India Limited (NLCINDIA) from Yahoo Finance for storing it in InfluxDB, querying and forecasting the prices of the stock for the upcoming days.
